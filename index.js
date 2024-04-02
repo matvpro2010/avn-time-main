@@ -1,4 +1,4 @@
-const startDate = new Date("2024--15 00:00");
+const startDate = new Date("2024-03-02 00:00");
 let timeElem = document.getElementById("time");
 
 setInterval(() => {
